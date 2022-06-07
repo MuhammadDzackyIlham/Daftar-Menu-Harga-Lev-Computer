@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>D:\Pemrograman\javafx-sdk-18.0.1\Latihan JavaFX\Latihan JavaFX\Daftar Harga Lev Computer.jar</jar>
+  <outfile>D:\Pemrograman\javafx-sdk-18.0.1\Latihan JavaFX\Latihan JavaFX\Daftar Harga Lev Computer.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl>http://java.com/download</downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>D:\Desain\Lev Computer\Lev Computer\Icon Lev 2.ico</icon>
+  <jre>
+    <path>D:\Pemrograman\Code\javafx-sdk-18.0.1</path>
+    <bundledJre64Bit>false</bundledJre64Bit>
+    <bundledJreAsFallback>false</bundledJreAsFallback>
+    <minVersion>1.7</minVersion>
+    <maxVersion>1.9</maxVersion>
+    <jdkPreference>preferJre</jdkPreference>
+    <runtimeBits>64/32</runtimeBits>
+  </jre>
+</launch4jConfig>
